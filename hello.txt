@@ -1,6 +1,6 @@
 here are some changes done on new_branch
 Bada bing!
-
+something from master
 I changed this file
 sdds
 
